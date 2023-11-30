@@ -10,7 +10,7 @@ This tutorial outlines the set up of the open-source help desk ticketing system 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Setting up osTicket](https://www.youtube.com)
+- ### [YouTube: Setting up osTicket](https://youtu.be/9iYkWAKz_Rk)
 
 <h2>Environments and Technologies Used</h2>
 
